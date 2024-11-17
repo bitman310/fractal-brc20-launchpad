@@ -12,7 +12,7 @@ The BRC-20 Token Launchpad on the Fractal Bitcoin Network is tailored to showcas
 ## Project Structure
 
 ```plaintext
-brc20-fractal-launchpad/
+fractal-brc20-launchpad/
 │
 ├── src/
 │   ├── controllers/
@@ -21,7 +21,6 @@ brc20-fractal-launchpad/
 │   ├── services/
 │   └── utils/
 │
-├── dist/                   # Compiled JavaScript output
 ├── tests/
 ├── package.json
 └── tsconfig.json
@@ -276,3 +275,10 @@ export function brc20_op(op: string, tick: string, amt: string, lim: string) {
 ```bash
 npm test
 ```
+
+## Contact Information
+
+For technical support or development inquiries, please contact me through:
+
+- [Telegram](https://t.me/diasibt/)
+- [Twitter](https://x.com/DiasIbt101/)
