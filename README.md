@@ -280,5 +280,6 @@ npm test
 
 For technical support or development inquiries, please contact me through:
 
-- [Telegram](https://t.me/diasibt/)
-- [Twitter](https://x.com/DiasIbt101/)
+-Telegram [@diasibt](https://t.me/@diasibt/)
+
+-X [DiasIbt101](https://x.com/DiasIbt101/)
