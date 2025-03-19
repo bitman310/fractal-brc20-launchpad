@@ -286,6 +286,6 @@ npm test
 
 For technical support or development inquiries, please contact me through:
 
--Telegram [@diasibt](https://t.me/@diasibt/)
+LinkedIn: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
 
--X [DiasIbt101](https://x.com/DiasIbt101/)
+Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
